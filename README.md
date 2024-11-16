@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN stack and React**
 
-- 💬 Ask me about **HTML,CSS,JS**
+- 💬 Ask me about **HTML,CSS,JS,REACT**
 
 - 📫 How to reach me **yogeshvenugopal875@gmail.com**
 
