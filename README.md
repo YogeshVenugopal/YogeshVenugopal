@@ -72,17 +72,7 @@ Full-stack vehicle management platform built on the **PERN** stack.
 
 `PostgreSQL` `Express` `React` `Node.js`
 
-[🔗 View Repo](https://github.com/YogeshVenugopal)
-
-</td>
-<td width="50%">
-
-### 📋 Project Management System
-Collaborative project & task management app built on the **MERN** stack.
-
-`MongoDB` `Express` `React` `Node.js`
-
-[🔗 View Repo](https://github.com/YogeshVenugopal)
+[🔗 View Repo](https://github.com/YogeshVenugopal/Certificate_tracker.git)
 
 </td>
 </tr>
@@ -94,61 +84,11 @@ Full-stack backend with email/OTP auth, Google & GitHub OAuth, JWT (httpOnly coo
 
 `Node.js` `Express` `MongoDB` `Redis` `JWT`
 
-[🔗 View Repo](https://github.com/YogeshVenugopal)
+[🔗 View Repo](https://github.com/YogeshVenugopal/OrganizationManagement.git)
 
 </td>
 <td width="50%">
 
-### ⏱️ Daily Study Tracker
-Productivity app with Pomodoro-style timers and an AI-powered insights layer using the Claude API.
-
-`MERN` `Claude API`
-
-[🔗 View Repo](https://github.com/YogeshVenugopal)
-
-</td>
-</tr>
-</table>
-
-> 💡 *Update the links above with your actual repo URLs.*
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YogeshVenugopal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshVenugopal&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=YogeshVenugopal&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YogeshVenugopal&theme=tokyo-night&hide_border=true" width="95%"/>
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YogeshVenugopal/YogeshVenugopal/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
-
-> 🔧 To enable the snake animation above, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo — it generates that SVG automatically on a schedule.
-
-<br/>
-
-## 🎯 Currently
-
-```text
-🔭 Working On   → Interview-ready React projects & DSA sheet (57 problems / 19 topics)
-🌱 Learning     → System Design, Cybersecurity fundamentals, Advanced React patterns
-🎯 Prepping For → Campus placements — frontend & full-stack interviews
-💬 Ask Me About → MERN/PERN, React Hooks, Node.js/Express, Auth systems
-```
 
 <br/>
 
