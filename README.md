@@ -1,18 +1,175 @@
-# 💫 About Me:
-Hey there! I'm yogesh venugopal R, a passionate Full Stack Developer and a current college student pursuing a degree in Computer Science Engineering. I love building web applications that solve real-world problems and enjoy working across the entire development stack from intuitive front-end interfaces to powerful back-end systems.<br><br>🚀 What I Do<br>🔧 Full Stack Development (MERN / PERN Stack)<br><br>🛠️ Backend with Node.js, Express, Flask<br><br>🧠 Learning Cybersecurity & Frontend Frameworks<br><br>🌱 Constantly exploring new technologies and tools<br><br>🧰 Tech Stack<br>Languages: JavaScript, Python, SQL<br>Frontend: React, HTML5, CSS3, Bootstrap, Tailwind<br>Backend: Node.js, Express, Flask<br>Database: MongoDB, MySQL, PostgreSQL<br>Tools & Platforms: Git, GitHub, VS Code, Postman, Linux<br><br>📫 How to Reach Me<br>📧 Email: yogeshvenugopal875@gmail.com<br>🔗 LinkedIn: linkedin.com/in/yogesh-venugopal
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=220&section=header&text=Yogesh%20Venugopal%20R&fontSize=45&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20(MERN%20%2F%20PERN)&descAlignY=55&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__y_gesh__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogesh-venugopal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogeshvenugopal875@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+MERN+%2F+PERN;Building+backend+systems+that+scale;Final+Year+CSE+Student+%40+KGiSL+IT;50-Day+LeetCode+Streak+%F0%9F%94%A5;Exploring+Cybersecurity+%26+System+Design" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YogeshVenugopal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YogeshVenugopal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshVenugopal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=YogeshVenugopal&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br/>
+
+## 💫 About Me
+
+I'm **Yogesh Venugopal R**, a final-year Computer Science Engineering student at **KGiSL Institute of Technology, Coimbatore**, and a passionate **Full Stack Developer** working across the **MERN / PERN** stack. I enjoy building web applications that solve real problems — from clean, responsive frontends to robust, secure backend systems.
+
+- 🎓 Final Year CSE @ KGiSL Institute of Technology *(Graduating 2027)*
+- 💼 Software Intern @ **Smart Side** *(Feb – Apr 2025, Remote)*
+- 🧑‍💻 Member of the **IPS Tech Community**
+- 🔥 Actively grinding **DSA on LeetCode** — 50-day streak and counting
+- 🔐 Growing interest in **Cybersecurity** — building network monitoring lab environments
+- 🐧 Runs Ubuntu Linux daily-driver, customized with a macOS-style GNOME/WhiteSur setup
+- 🎯 Currently deep in **placement preparation** — sharpening React, system design, and interview skills
+
+<br/>
+
+## 🚀 What I Do
+
+```javascript
+const yogesh = {
+  role: "Full Stack Developer",
+  stack: ["MERN", "PERN"],
+  backend: ["Node.js", "Express", "Flask"],
+  currentlyLearning: ["Cybersecurity", "Advanced React Patterns", "System Design"],
+  currentlyBuilding: "Interview-ready projects & DSA fluency",
+  funFact: "50-day LeetCode streak and counting 🔥"
+};
+```
+
+<br/>
+
+## 🧰 Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,figma" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgres,redis" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker,kubernetes" />
+
+<br/>
+
+## 🛠️ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚗 KG-CAR
+Full-stack vehicle management platform built on the **PERN** stack.
+
+`PostgreSQL` `Express` `React` `Node.js`
+
+[🔗 View Repo](https://github.com/YogeshVenugopal)
+
+</td>
+<td width="50%">
+
+### 📋 Project Management System
+Collaborative project & task management app built on the **MERN** stack.
+
+`MongoDB` `Express` `React` `Node.js`
+
+[🔗 View Repo](https://github.com/YogeshVenugopal)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏢 Organization Management System
+Full-stack backend with email/OTP auth, Google & GitHub OAuth, JWT (httpOnly cookies), invite flows, RBAC, and Redis caching.
+
+`Node.js` `Express` `MongoDB` `Redis` `JWT`
+
+[🔗 View Repo](https://github.com/YogeshVenugopal)
+
+</td>
+<td width="50%">
+
+### ⏱️ Daily Study Tracker
+Productivity app with Pomodoro-style timers and an AI-powered insights layer using the Claude API.
+
+`MERN` `Claude API`
+
+[🔗 View Repo](https://github.com/YogeshVenugopal)
+
+</td>
+</tr>
+</table>
+
+> 💡 *Update the links above with your actual repo URLs.*
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YogeshVenugopal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshVenugopal&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=YogeshVenugopal&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YogeshVenugopal&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YogeshVenugopal/YogeshVenugopal/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+> 🔧 To enable the snake animation above, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo — it generates that SVG automatically on a schedule.
+
+<br/>
+
+## 🎯 Currently
+
+```text
+🔭 Working On   → Interview-ready React projects & DSA sheet (57 problems / 19 topics)
+🌱 Learning     → System Design, Cybersecurity fundamentals, Advanced React patterns
+🎯 Prepping For → Campus placements — frontend & full-stack interviews
+💬 Ask Me About → MERN/PERN, React Hooks, Node.js/Express, Auth systems
+```
+
+<br/>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogesh-venugopal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__y_gesh__)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshvenugopal875@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=YogeshVenugopal&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" width="100%"/>
+
+</div>
+
+<!-- Proudly redesigned with ❤️ -->
